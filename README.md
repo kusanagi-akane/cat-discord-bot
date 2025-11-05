@@ -1,7 +1,7 @@
-# 🤖 Discord 機器人使用指南
+# 🤖 貓貓超可愛 Discord 機器人使用指南
 
 歡迎使用本 Discord 機器人！這份指南將幫助你快速上手所有功能。
-
+[邀請連結](https://discord.com/oauth2/authorize?client_id=1189184292044165182&permissions=8&integration_type=0&scope=bot)
 ---
 
 ## 📚 目錄
@@ -946,5 +946,8 @@ A: 是的，使用 `/pay` 轉帳會收取 3% 手續費。
 ## 📞 支援與回饋
 
 如有任何問題或建議，請聯繫伺服器管理員或機器人開發者。
+聯絡方式
+Discord:kusanagi_akane
+支援群組:https://discord.gg/Ba6kejMJ6N
 
 祝你使用愉快！🎉
